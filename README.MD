@@ -6,7 +6,7 @@
 *Тебе могут пригодиться следующие теги: `<h1>`, `<h2>`, `<hr>`, `<small>`, `<p>`, `<blockquote>`, `<ul>`, `<li>`, `<b>`, `<i>`, `<s>`, `<a>`*
 
 ##### Пример фото
-[<img src="/readme-assets/article.png" width="600"/>](/readme-assets/article.png)
+[<img src="/readme-assets/article.png" width="800"/>](/readme-assets/article.png)
 
 ## Релиз 0
 - Создай страницу `index.html`.
