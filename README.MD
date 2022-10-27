@@ -6,14 +6,14 @@
 *Тебе могут пригодиться следующие теги: `<h1>`, `<h2>`, `<hr>`, `<small>`, `<p>`, `<blockquote>`, `<ul>`, `<li>`, `<b>`, `<i>`, `<s>`, `<a>`*
 
 ##### Пример фото
-[<img src="/readme-assets/article.png" width="200"/>](/readme-assets/article.png)
+[<img src="/readme-assets/article.png" width="800"/>](/readme-assets/article.png)
 
 ## Релиз 0
 - Создай страницу `index.html`.
 
 Наполни страницу стандартной разметкой: `<!DOCTYPE html>`, `html`, `head`, `body`
 
-# Релиз 1
+## Релиз 1
 - Скопируй в `body` текст из файла `article.txt`.
 - Смотри на пример фото и сделай так-же с помощью html тегов.
 
